@@ -1,7 +1,7 @@
 # 32x8-Dot-Matrix-Clock
 Make true digital clock via dot matrix and esp8266
 
-## Wireing
+## Wiring
 
 For WeMos D1 mini (Lite / Pro)
 
