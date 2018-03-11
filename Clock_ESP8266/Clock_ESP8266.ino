@@ -3,8 +3,8 @@
 #include <time.h>
 
 // WiFi Config
-#define WIFI_SSID     "MaxHome3BB"
-#define WIFI_PASSWORD "987654321"
+#define WIFI_SSID     "YOUR WIFI NAME"
+#define WIFI_PASSWORD "YOUR WIFI PASSWORD"
 
 // NTP Config
 int timezone = 7 * 3600;
